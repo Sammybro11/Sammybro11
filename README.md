@@ -8,8 +8,8 @@ Hallo !
 <!-- ![GiggleLiu's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=GiggleLiu&theme=dracula&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER)-->
 
 <!-- ![Sammybro11's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Sammybro11&theme=dracula&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER) -->
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Sammybro11&rank_icon=github&hide_title=true&show_icons=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api?username=Sammybro11&rank_icon=github&hide_title=true&show_icons=true&theme=gruvbox)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Sammybro11&hide_progress=true&langs_count=8&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=Sammybro11&hide_progress=true&langs_count=8&theme=gruvbox)
+![Sammybro11's Git Stats](https://github-stats-extended.vercel.app/api?username=Sammybro11&rank_icon=github&hide_title=true&show_icons=true&theme=gruvbox&v=2)
+![Sammybro11's Lang Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Sammybro11&hide_progress=true&langs_count=8&theme=gruvbox&v=2)
 <!-- Tools I Love and Use
 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) [![Zen Browser](https://img.shields.io/badge/Zen%20Browser-F76F53?logo=zenbrowser&logoColor=fff)](#) (Don't Love this but have to use ->)[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#) [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#) [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)](#) 
